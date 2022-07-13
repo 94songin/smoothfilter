@@ -1,0 +1,2 @@
+Warning (10273): Verilog HDL warning at tb_smoothfilter.v(22): extended using "x" or "z" File: C:/intelFPGA_lite/19.1/smooth_op/tb_smoothfilter.v Line: 22
+Warning (10273): Verilog HDL warning at tb_smoothfilter.v(38): extended using "x" or "z" File: C:/intelFPGA_lite/19.1/smooth_op/tb_smoothfilter.v Line: 38
